@@ -42,3 +42,6 @@ python setup.py install
 ```
 python -m Emailbox
 ```
+
+# Result
+![result](http://imgur.com/xgkZQJS.jpg)
